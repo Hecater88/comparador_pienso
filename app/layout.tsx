@@ -1,4 +1,6 @@
 import { PropsWithChildren } from "react";
+import "@styles/globals.css";
+
 export const metadata = {
 	title: "Comparador de Pienso",
 	description: "Elige el pienso perfecto para tu mascota",
